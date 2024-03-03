@@ -26,6 +26,4 @@ Nitrogen oxides (NOx) mg/m3 25.90 119.91 65.29
 
 
 
-
-
-2)
+3) Predict the Daibetic type for Pima Indian Dataset
